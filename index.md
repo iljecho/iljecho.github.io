@@ -1,5 +1,4 @@
 ---
-title: Ilje Cho
 layout: default
 ---
 
