@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Under construction.** Please visit [myORCID](https://orcid.org/0000-0001-6083-7521). \
+**Under construction.** Please visit [myORCID](https://orcid.org/0000-0001-6083-7521). 
 
 **Education and Employment**
 
