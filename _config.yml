@@ -1,6 +1,6 @@
 title: Ilje Cho
 profile: true
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 tags: true
