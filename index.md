@@ -10,7 +10,7 @@ https://github.com/pages-themes/minimal
 
 ## Profile
 
-MSc and PhD Integrated course student at University of Science and Technology (UST) and Korea Astronomy and Space Science Institute (KASI) 
+MSc and PhD Integrated course student at University of Science and Technology (UST) / Korea Astronomy and Space Science Institute (KASI) 
 
 E-mail: ijcho(at)kasi.re.kr, astronomy707(at)gmail.com 
 
