@@ -3,17 +3,14 @@ layout: default
 ---
 
 <!--
+https://github.com/pages-themes/minimal
 **Under construction.** Please visit [myORCID](https://orcid.org/0000-0001-6083-7521). 
 [myGithub](https://github.com/iljecho). 
 -->
 
 ## Profile
 
-Department of Astronomy and Space Science, 
-University of Science and Technology (UST) 
-
-Radio Astronomy Research Division, 
-Korea Astronomy and Space Science Institute (KASI) 
+MSc and PhD Integrated course student at University of Science and Technology (UST) and Korea Astronomy and Space Science Institute (KASI) 
 
 E-mail: ijcho(at)kasi.re.kr, astronomy707(at)gmail.com 
 
