@@ -4,6 +4,7 @@ layout: default
 
 <!--
 **Under construction.** Please visit [myORCID](https://orcid.org/0000-0001-6083-7521). 
+[myGithub](https://github.com/iljecho). 
 -->
 
 Department of Astronomy and Space Science, 
@@ -15,8 +16,7 @@ Korea Astronomy and Space Science Institute (KASI)
 E-mail: ijcho(at)kasi.re.kr, astronomy707(at)gmail.com 
 
 [myORCID](https://orcid.org/0000-0001-6083-7521), 
-[myGithub](https://github.com/iljecho). 
-
+[CV](https://drive.google.com/open?id=1jLSmKw7rUa0xpJYxITZpBwRM2NgGhe2O). 
 
 
 <!--
