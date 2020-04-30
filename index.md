@@ -2,18 +2,21 @@
 layout: default
 ---
 
+<!--
 **Under construction.** Please visit [myORCID](https://orcid.org/0000-0001-6083-7521). 
+-->
 
-**Education and Employment**
+Department of Astronomy and Space Science, 
+University of Science and Technology (UST) 
 
-Department of Astronomy and Space Science, \\
-University of Science and Technology (UST) \\
-Radio Astronomy Research Division, \\
-Korea Astronomy and Space Science Institute (KASI) \\
+Radio Astronomy Research Division, 
+Korea Astronomy and Space Science Institute (KASI) 
 
-E-mail: ijcho(at)kasi.re.kr, astronomy707(at)gmail.com \\
-[myORCID](https://orcid.org/0000-0001-6083-7521). \\ 
-[myGithub](https://github.com/iljecho). \\
+E-mail: ijcho(at)kasi.re.kr, astronomy707(at)gmail.com 
+
+[myORCID](https://orcid.org/0000-0001-6083-7521), 
+[myGithub](https://github.com/iljecho). 
+
 
 
 <!--
