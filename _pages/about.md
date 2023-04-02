@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![image](/assets/iceland.png)
+![image](/assets/iceland.HEIC)
 
 **Radio astronomer**
 
