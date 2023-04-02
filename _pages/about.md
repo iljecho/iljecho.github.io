@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- ![image](/assets/iceland.jpeg) -->
-<img src="/assets/iceland.jpeg" width="100")
+<img src="/assets/iceland.jpeg" width="100">
 
 **Radio astronomer**
 
