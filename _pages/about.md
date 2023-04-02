@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![image](/assets/EAVN_EHT_sgra.png)
 
 **Radio astronomer**
 

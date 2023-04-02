@@ -3,6 +3,8 @@ title: "Research"
 permalink: /research/
 ---
 
+![image](/assets/EAVN_EHT_sgra.png)
+
 * Supermassive black holes (SMBHs) at the center of active galactic nuclei (AGN) – Black hole accretion flow and jet physics
   - AGN feedback on its environments and host galaxy
   - The intermediate-mass black holes
