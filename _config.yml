@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ilje Cho"
-  avatar           : "ilje.jpg"
+  avatar           : "profile2.jpg"
   bio              : "Postdoctoral Fellow <br> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
   location         : "Granada, Spain"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "icho@iaa.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,12 +104,12 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-6083-7521"
-  pinterest        : 
+  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
