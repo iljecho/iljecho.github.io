@@ -13,8 +13,8 @@ redirect_from:
 I am mainly focusing on the supermassive black holes (SMBHs) at the center of active galactic nuclei (AGN) with the very long baseline interferometry (VLBI).
 Especially the black hole accretion flow and jet physics through the high-resolution imaging / astrometry / polarimetry are major research subjects.
 
-Regarding this, I have been actively working as a member of several large collaborations of the Event Horizon Telescope (EHT), next-generation EHT (ngEHT), East Asia VLBI Network (EAVN) AGN Science Working Group, RadioAstron AGN Science Working Group, and Multi-frequency AGN Survey with KVN (MASK) project.
-Together with the vicinity of SMBHs, investigating the intermediate-mass black holes and the AGN feedback on its environments/host galaxy are in a scope of interest.
+Regarding this, I have been actively working as a member of several large collaborations of the Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"}), next-generation EHT ([ngEHT](https://www.ngeht.org/){:target="_blank"}), East Asia VLBI Network ([EAVN](https://radio.kasi.re.kr/eavn/main.php){:target="_blank"}) AGN Science Working Group, and [RadioAstron](http://www.asc.rssi.ru/radioastron/){:target="_blank"} AGN Science Working Group.
+Together with the vicinity of SMBHs, investigating the intermediate-mass black holes and the AGN feedback on its environments / host galaxy are in a scope of interest.
 
 **Software developer**
 
