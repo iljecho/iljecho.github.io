@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ilje Cho"
 title_separator          : "-"
 name                     : &name "Ilje Cho"
-description              : &description "Postdoctoral Fellow <br> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+description              : &description "Postdoctoral Fellow <br> Yonsei Univ. and KASI"
 url                      : https://iljecho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iljecho/iljecho.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ilje Cho"
   avatar           : "profile2.jpg"
-  bio              : "Postdoctoral Researcher <br> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+  bio              : "Postdoctoral Fellow <br> Yonsei Univ. and KASI"
   location         : "Granada, Spain"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "icho@iaa.es"
+  email            : "icho@kasi.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
