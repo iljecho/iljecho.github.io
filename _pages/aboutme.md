@@ -1,14 +1,7 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /aboutme/
-  - /aboutme.html
+title: "About me"
+permalink: /aboutme/
 ---
-<!-- ![image](/assets/iceland.jpeg) -->
-<!-- !<img src="/assets/iceland.jpeg" width="300"> -->
 
 **Radio astronomer**
 
