@@ -6,7 +6,7 @@ permalink: /aboutme/
 <!-- <img src="/assets/iceland.jpeg" width="300"> -->
 ![image](/assets/sgra_pr.jpg)
 
-**Employment**
+<h1>Employment</h1>
 * Since 2026 \| Assistant Professor, Kyungpook National University ([KNU](https://en.knu.ac.kr/main/main.htm){:target="_blank"}), Korea
 * 2025-2026 \| Senior Scientist, Korea Astronomy and Space Science Institute ([KASI](https://www.kasi.re.kr/){:target="_blank"}), Korea
 * 2023-2025 \| Postdoctoral fellow, KASI / [Yonsei University](https://devcms.yonsei.ac.kr/galaxy_en/index.do){:target="_blank"}, Korea
@@ -14,12 +14,12 @@ permalink: /aboutme/
 * 2014-2021 \| PhD candidate, KASI, Korea
 
 
-**Education**
+<h1>Education</h1>
 * 2014-2021 \| Ph. D. in Astronomy and Space Science, University of Science and Technology ([UST](https://www.ust.ac.kr/eng/){:target="_blank"}), Korea
 * 2007-2014 \| B. Sc. in Astronomy and Atmospheric Science, Kyungpook National University, Korea
 
 
-**International Collaborations**
+<h1>International Collaborations</h1>
 * Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"})
 * next-generation EHT ([ngEHT](https://www.ngeht.org/){:target="_blank"})
 * East Asia VLBI Network ([EAVN](https://radio.kasi.re.kr/eavn/main.php){:target="_blank"}) AGN Science Working Group
