@@ -17,3 +17,4 @@ permalink: /research/
 
 <h1>Highlights</h1>
 ![image](/assets/EAVN_EHT_sgra.png)
+- Intrinsic structure of the supermassive black hole at the center of our Galaxy, Sagittarius A* ([Cho et al. 2022, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ac4165)) 
