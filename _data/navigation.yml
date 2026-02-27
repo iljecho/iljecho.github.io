@@ -12,8 +12,8 @@ main:
   - title: "Members"
     url: /members/
 
-  #- title: "CV"
-    #url: /cv/
+  - title: "Lectures"
+    url: /lectures/
 
   - title: "Outreach"
     url: /outreach/
