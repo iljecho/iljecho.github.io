@@ -16,5 +16,8 @@ permalink: /research/
 <br>
 
 <h1>Highlights</h1>
+- Intrinsic structure of the supermassive black hole at the center of our Galaxy, Sagittarius A* ([Cho et al. 2022, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ac4165))
 ![image](/assets/EAVN_EHT_sgra.png)
-- Intrinsic structure of the supermassive black hole at the center of our Galaxy, Sagittarius A* ([Cho et al. 2022, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ac4165)) 
+
+- Bent jet structure of OJ287 and its polarization with Space VLBI ([Cho et al. 2024, A&A](https://www.aanda.org/articles/aa/full_html/2024/03/aa47157-23/aa47157-23.html))
+![image](/assets/oj287.pdf)
