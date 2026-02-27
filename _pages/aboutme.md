@@ -3,6 +3,8 @@ title: "About me"
 permalink: /aboutme/
 ---
 
+<img src="/assets/iceland.jpeg" width="300">
+
 **Radio astronomer**
 
 I am mainly focusing on the supermassive black holes (SMBHs) at the center of active galactic nuclei (AGN) with the very long baseline interferometry (VLBI).
