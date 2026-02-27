@@ -21,3 +21,9 @@ permalink: /research/
 
 - Bent jet structure of OJ287 and its polarization with Space VLBI ([Cho et al. 2024, A&A](https://www.aanda.org/articles/aa/full_html/2024/03/aa47157-23/aa47157-23.html))
 ![image](/assets/oj287.pdf)
+
+- Imaging simulation for M87* with EHT+EKVN ([Cho et al. 2025, JKAS](https://koreascience.or.kr/article/JAKO202503043213212.page))
+![image](/assets/m87_eht_kvn.pdf)
+
+- Origin of the ring ellipticity in the black hole images of M87* ([Dahale, Cho et al. 2025, A&A](https://www.aanda.org/articles/aa/full_html/2025/07/aa55235-25/aa55235-25.html))
+![image](/assets/m87_ellipticity.png)
