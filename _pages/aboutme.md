@@ -6,15 +6,15 @@ permalink: /aboutme/
 <img src="/assets/iceland.jpeg" width="300">
 
 **Employment**
-* Since 2026 | Assistant Professor, Kyungpook National University, Korea
-* 2025-2026 | Senior Scientist, Korea Astronomy and Space Science Institute, Korea
-* 2023-2025 | Postdoctoral fellow, Korea Astronomy and Space Science Institute / Yonsei University, Korea
-* 2021-2023 | Postdoctoral Researcher, Instituto de Astrofisica de Andalucia - CSIC, Spain
-* 2014-2021 | PhD candidate, Korea Astronomy and Space Science Institute, Korea
+* Since 2026 \| Assistant Professor, Kyungpook National University, Korea
+* 2025-2026 \| Senior Scientist, Korea Astronomy and Space Science Institute, Korea
+* 2023-2025 \| Postdoctoral fellow, Korea Astronomy and Space Science Institute / Yonsei University, Korea
+* 2021-2023 \| Postdoctoral Researcher, Instituto de Astrofisica de Andalucia - CSIC, Spain
+* 2014-2021 \| PhD candidate, Korea Astronomy and Space Science Institute, Korea
 
 **Education**
-* 2014-2021 | Ph. D. in Astronomy and Space Science, University of Science and Technology, Korea
-* 2007-2014 | B. Sc. in Astronomy and Atmospheric Science, Kyungpook National University, Korea
+* 2014-2021 \| Ph. D. in Astronomy and Space Science, University of Science and Technology, Korea
+* 2007-2014 \| B. Sc. in Astronomy and Atmospheric Science, Kyungpook National University, Korea
 
 **International Collaborations**
 * Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"})
