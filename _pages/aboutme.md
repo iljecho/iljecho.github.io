@@ -13,11 +13,13 @@ permalink: /aboutme/
 * 2021-2023 \| Postdoctoral Researcher, Instituto de Astrofisica de Andalucia ([IAA - CSIC](https://www.iaa.csic.es/){:target="_blank"}), Spain
 * 2014-2021 \| PhD candidate, KASI, Korea
 
+<br>
 
 <h1>Education</h1>
 * 2014-2021 \| Ph. D. in Astronomy and Space Science, University of Science and Technology ([UST](https://www.ust.ac.kr/eng/){:target="_blank"}), Korea
 * 2007-2014 \| B. Sc. in Astronomy and Atmospheric Science, Kyungpook National University, Korea
 
+<br>
 
 <h1>International Collaborations</h1>
 * Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"})
