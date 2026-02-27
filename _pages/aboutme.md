@@ -3,7 +3,8 @@ title: ""
 permalink: /aboutme/
 ---
 
-<img src="/assets/iceland.jpeg" width="300">
+<!-- <img src="/assets/iceland.jpeg" width="300"> -->
+![image](/assets/sgra_pr.jpg)
 
 **Employment**
 * Since 2026 \| Assistant Professor, Kyungpook National University ([KNU](https://en.knu.ac.kr/main/main.htm){:target="_blank"}), Korea
