@@ -1,16 +1,28 @@
 ---
-title: "About me"
+title: ""
 permalink: /aboutme/
 ---
 
-<img src="/assets/iceland.jpeg" width="300">
+<!-- <img src="/assets/iceland.jpeg" width="300"> -->
+![image](/assets/iceland.jpeg)
 
-**Radio astronomer**
+**Employment**
+* Since 2026 | Assistant Professor, Kyungpook National University, Korea
+* 2025-2026 | Senior Scientist, Korea Astronomy and Space Science Institute, Korea
+* 2023-2025 | Postdoctoral fellow, Korea Astronomy and Space Science Institute / Yonsei University, Korea
+* 2021-2023 | Postdoctoral Researcher, Instituto de Astrofisica de Andalucia - CSIC, Spain
+* 2014-2021 | PhD candidate, Korea Astronomy and Space Science Institute, Korea
 
-I am mainly focusing on the supermassive black holes (SMBHs) at the center of active galactic nuclei (AGN) with the very long baseline interferometry (VLBI).
-Especially the black hole accretion flow and jet physics through the high-resolution imaging / astrometry / polarimetry are major research subjects.
+**Education**
+* 2014-2021 | Ph. D. in Astronomy and Space Science, University of Science and Technology, Korea
+* 2007-2014 | B. Sc. in Astronomy and Atmospheric Science, Kyungpook National University, Korea
 
-Regarding this, I have been actively working as a member of several large collaborations of the Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"}), next-generation EHT ([ngEHT](https://www.ngeht.org/){:target="_blank"}), East Asia VLBI Network ([EAVN](https://radio.kasi.re.kr/eavn/main.php){:target="_blank"}) AGN Science Working Group, and [RadioAstron](http://www.asc.rssi.ru/radioastron/){:target="_blank"} AGN Science Working Group.
+**International Collaborations**
+* Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"})
+* next-generation EHT ([ngEHT](https://www.ngeht.org/){:target="_blank"})
+* East Asia VLBI Network ([EAVN](https://radio.kasi.re.kr/eavn/main.php){:target="_blank"}) AGN Science Working Group
+* RadioAstron [RadioAstron](http://www.asc.rssi.ru/radioastron/){:target="_blank"} AGN Science Working Group.
+
 Together with the vicinity of SMBHs, investigating the intermediate-mass black holes and the AGN feedback on its environments / host galaxy are in a scope of interest.
 
 **Software developer**
