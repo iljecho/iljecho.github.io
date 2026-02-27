@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 <!-- ![image](/assets/iceland.jpeg) -->
-<img src="/assets/alma_telescopes.jpg" width="300">
+<img src="/assets/alma_telescopes.jpg" width="600">
 
 I am an assistant professor at Kyungpook National University, Department of Astronomy and Atmospheric Sciences.
