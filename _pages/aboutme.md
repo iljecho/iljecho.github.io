@@ -9,7 +9,7 @@ permalink: /aboutme/
 <h1>Employment</h1>
 * Since 2026 \| Assistant Professor, Kyungpook National University ([KNU](https://en.knu.ac.kr/main/main.htm){:target="_blank"}), Korea
 * 2025-2026 \| Senior Scientist, Korea Astronomy and Space Science Institute ([KASI](https://www.kasi.re.kr/){:target="_blank"}), Korea
-* 2023-2025 \| Postdoctoral fellow, KASI / [Yonsei University](https://devcms.yonsei.ac.kr/galaxy_en/index.do){:target="_blank"}, Korea
+* 2023-2025 \| Postdoctoral Fellow, KASI / [Yonsei University](https://devcms.yonsei.ac.kr/galaxy_en/index.do){:target="_blank"}, Korea
 * 2021-2023 \| Postdoctoral Researcher, Instituto de Astrofisica de Andalucia ([IAA - CSIC](https://www.iaa.csic.es/){:target="_blank"}), Spain
 * 2014-2021 \| PhD candidate, KASI, Korea
 
