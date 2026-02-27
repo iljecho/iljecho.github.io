@@ -3,8 +3,7 @@ title: ""
 permalink: /aboutme/
 ---
 
-<!-- <img src="/assets/iceland.jpeg" width="300"> -->
-![image](/assets/iceland.jpeg)
+<img src="/assets/iceland.jpeg" width="300">
 
 **Employment**
 * Since 2026 | Assistant Professor, Kyungpook National University, Korea
