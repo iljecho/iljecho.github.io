@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ilje Cho"
 title_separator          : "-"
 name                     : &name "Ilje Cho"
-description              : &description "Postdoctoral Fellow <br> Yonsei Univ. and KASI"
+description              : &description "Assistant Professor <br> Kyungpook National University"
 url                      : https://iljecho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iljecho/iljecho.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ilje Cho"
   avatar           : "profile2.jpg"
-  bio              : "Assistant Professor <br> Kyungpook National Univ."
+  bio              : "Assistant Professor <br> Kyungpook National University"
   location         : "Seoul, Korea"
   employer         :
   pubmed           :
