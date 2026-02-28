@@ -12,7 +12,7 @@ redirect_from:
 <!-- ![image](/assets/alma_telescopes.jpg) -->
 ![image](/assets/bh_movie.gif)
 
-**I am a Radio Astronomer and Assistant Professor at Kyungpook National University.**
+**I am a Radio Astronomer \| Assistant Professor at Kyungpook National University.**
 
 I use Very Long Baseline Interferometry (VLBI) to study supermassive black holes in active galactic nuclei. My work focuses on jet physics and accretion flows using high-resolution imaging, astrometry, and polarimetry.
 
