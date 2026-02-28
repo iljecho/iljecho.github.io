@@ -3,7 +3,7 @@ title: ""
 permalink: /outreach/
 ---
 
-![image](/assets/luminet.jpg)
+![image](/assets/edge3.jpg)
 
 <h1>Public Talks and Press Release</h1>
 

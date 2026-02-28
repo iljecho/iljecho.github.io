@@ -3,4 +3,6 @@ title: ""
 permalink: /members/
 ---
 
-Come soon. 
+![image](/assets/first_moment.jpg)
+
+Come soon.
