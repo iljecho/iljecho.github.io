@@ -11,7 +11,7 @@ permalink: /aboutme/
 * 2025-2026 \| Senior Scientist, Korea Astronomy and Space Science Institute ([KASI](https://www.kasi.re.kr/){:target="_blank"}), Korea
 * 2023-2025 \| Postdoctoral Fellow, KASI / [Yonsei University](https://devcms.yonsei.ac.kr/galaxy_en/index.do){:target="_blank"}, Korea
 * 2021-2023 \| Postdoctoral Researcher, Instituto de Astrofisica de Andalucia ([IAA - CSIC](https://www.iaa.csic.es/){:target="_blank"}), Spain
-* 2017-2018 \| Visiting Researcher, Massachusetts Institute of Technology (MIT) ([Haystack Observatory](https://www.haystack.mit.edu/){:target="_blank"}), United States
+* 2017-2018 \| Visiting Researcher, Massachusetts Institute of Technology ([MIT Haystack Observatory](https://www.haystack.mit.edu/){:target="_blank"}), United States
 * 2014-2021 \| PhD candidate, KASI, Korea
 
 <br>
