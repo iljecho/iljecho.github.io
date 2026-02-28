@@ -22,4 +22,4 @@ I use Very Long Baseline Interferometry (VLBI) to study supermassive black holes
 - Address: Department of Astronomy and Atmospheric Science, Kyungpook National University, 80 Daehak-ro, Buk-gu, Daegu 41566, Republic of Korea
 - Office: NS2-407
 - Tel: +82-053-950-7136
-- Webpages: [KNU](https://en.knu.ac.kr/main/main.htm)) \| [Astronomy](https://hanl.knu.ac.kr/))
+- Webpages: [KNU](https://en.knu.ac.kr/main/main.htm) \| [Astronomy](https://hanl.knu.ac.kr/)
