@@ -22,6 +22,14 @@ permalink: /aboutme/
 
 <br>
 
+<h1>Grants and Awards</h1>
+* UST Overseas Training Program (MIT Haystack Observatory) \| University of Science and Technology
+* Global PhD Fellowship (NRF-2015H1A2A1033752) \| National Research Foundation of Korea
+* Early Career Award 2024 \| The EHT Collaboration
+* Joint Award via the EHT Collaboration ([list](https://eventhorizontelescope.org/awards))
+
+<br>
+
 <h1>International Collaborations</h1>
 * Event Horizon Telescope ([EHT](https://eventhorizontelescope.org/){:target="_blank"})
 * next-generation EHT ([ngEHT](https://www.ngeht.org/){:target="_blank"})
