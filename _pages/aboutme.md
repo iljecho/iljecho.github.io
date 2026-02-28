@@ -25,7 +25,7 @@ permalink: /aboutme/
 <h1>Grants and Awards</h1>
 * UST Overseas Training Program (MIT Haystack Observatory) \| University of Science and Technology
 * Global PhD Fellowship (NRF-2015H1A2A1033752) \| National Research Foundation of Korea
-* Early Career Award 2024 \| The EHT Collaboration
+* Early Career Award 2024 ([link](https://eventhorizontelescope.org/awards-eht)) \| The EHT Collaboration
 * Joint Award via the EHT Collaboration ([list](https://eventhorizontelescope.org/awards))
 
 <br>
