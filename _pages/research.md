@@ -33,3 +33,6 @@ permalink: /research/
 
 - Origin of the ring ellipticity in the black hole images of M87* ([Dahale, Cho et al. 2025, A&A](https://www.aanda.org/articles/aa/full_html/2025/07/aa55235-25/aa55235-25.html))
 ![image](/assets/m87_ellipticity.png)
+
+- Spatially resolved polarization swings in the supermassive binary black hole candidate OJ287 ([Gomez, Cho et al. 2026, A&A](https://www.aanda.org/articles/aa/full_html/2026/01/aa55831-25/aa55831-25.html))
+![image](/assets/EHT_OJ287_PR.png)
