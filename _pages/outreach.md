@@ -3,6 +3,8 @@ title: ""
 permalink: /outreach/
 ---
 
+![image](/assets/luminet.jpg)
+
 <h1>Public Talks and Press Release</h1>
 
 * Public lecture: How to observe the black holes ? ([Science Slam D](https://youtu.be/9exnhfM3bRY){:target="_blank"}, [article in HelloDD](https://www.hellodd.com/news/articleView.html?idxno=68464){:target="_blank"} \| *Best presenter*)
