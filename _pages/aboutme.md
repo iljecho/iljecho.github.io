@@ -12,7 +12,7 @@ permalink: /aboutme/
 * 2023-2025 \| Postdoctoral Fellow, KASI / [Yonsei University](https://devcms.yonsei.ac.kr/galaxy_en/index.do){:target="_blank"}, Korea
 * 2021-2023 \| Postdoctoral Researcher, Instituto de Astrofisica de Andalucia ([IAA - CSIC](https://www.iaa.csic.es/){:target="_blank"}), Spain
 * 2017-2018 \| Visiting Researcher, Massachusetts Institute of Technology ([MIT Haystack Observatory](https://www.haystack.mit.edu/){:target="_blank"}), United States
-* 2014-2021 \| PhD candidate, KASI, Korea
+* 2014-2021 \| Ph. D. candidate, KASI, Korea
 
 <br>
 
@@ -23,10 +23,10 @@ permalink: /aboutme/
 <br>
 
 <h1>Grants and Awards</h1>
-* UST Overseas Training Program (MIT Haystack Observatory) \| University of Science and Technology
 * Global PhD Fellowship (NRF-2015H1A2A1033752) \| National Research Foundation of Korea
-* Early Career Award 2024 ([link](https://eventhorizontelescope.org/awards-eht)) \| The EHT Collaboration
+* UST Overseas Training Program (MIT Haystack Observatory) \| University of Science and Technology
 * Joint Award via the EHT Collaboration ([list](https://eventhorizontelescope.org/awards))
+* Early Career Award 2024 ([link](https://eventhorizontelescope.org/awards-eht)) \| The EHT Collaboration
 
 <br>
 
